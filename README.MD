@@ -1,2 +1,2 @@
-Hello, world! I am working on Module 2 of DEV284x.
+Hello, world! I am working on Module 2 of DEV284x. Here we go.
 
